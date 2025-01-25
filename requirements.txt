@@ -1,0 +1,8 @@
+os
+opencv-python
+tensorflow
+numpy
+pillow
+flask
+werkzeug
+keras
